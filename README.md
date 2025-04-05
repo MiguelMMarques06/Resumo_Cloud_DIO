@@ -13,6 +13,10 @@ Nuvem é uma rede de servidores remotos extensa que disponibiliza recursos como 
 - Confiabilidade;
 - Governança;
 - Disponibilidade.
+## Diferentes serviços disponíveis:
+- Iaas - Infraestrutura como serviço;
+- Paas - Plataforma como serviço;
+- Saas - Software como serviço.
 ## Questões de localização:
 Para oferecer serviços com menor latência, as empresas fornecem servidores em diferentes lugares do mundo:
 - Existem as regions que contém as zones;

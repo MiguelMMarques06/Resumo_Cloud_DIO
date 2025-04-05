@@ -17,6 +17,11 @@ Nuvem é uma rede de servidores remotos extensa que disponibiliza recursos como 
 - Iaas - Infraestrutura como serviço;
 - Paas - Plataforma como serviço;
 - Saas - Software como serviço.
+## Responsabilidade compartilhada:
+- On premise (local) - A responsabilidade é total do cliente;
+- Iaas - Dos serviços disponíveis é a que o cliente tem mais poder;
+- Paas - A infraestrutura é provida pelaa empresa, é recomendado para desenvolvimento de softwares e implementação de bando de dados;
+- Saas - Contrata um software para uso;
 ## Questões de localização:
 Para oferecer serviços com menor latência, as empresas fornecem servidores em diferentes lugares do mundo:
 - Existem as regions que contém as zones;

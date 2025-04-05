@@ -22,3 +22,4 @@ Para oferecer serviços com menor latência, as empresas fornecem servidores em 
 - Oracle;
 - Amazon Web Services;
 - Google Cloud Platform.
+## Empresas definem contrato SLA com o cliente que define a obrigatoriedade da disponibilidade do serviço em porcentagem quanto ao tempo de uso.
